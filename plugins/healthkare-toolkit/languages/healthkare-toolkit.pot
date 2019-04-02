@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Healthkare Toolkit 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-01 15:59+0530\n"
+"PO-Revision-Date: 2016-03-01 05:21+0530\n"
+"Last-Translator: Onista Web <onistaweb@gmail.com>\n"
+"Language-Team: Onista Web <onistaweb@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ healthkare-toolkit
+#: shortcodes/sc_blog.php:83 shortcodes/sc_blog.php:232 shortcodes/sc_blog.php:381 shortcodes/sc_blog_listing.php:65
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_blog.php:99 shortcodes/sc_blog.php:248 shortcodes/sc_blog.php:397 shortcodes/sc_blog_listing.php:81
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_blog.php:132 shortcodes/sc_blog.php:282 shortcodes/sc_blog.php:433 shortcodes/sc_blog_listing.php:111
+msgid "0 Comment"
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_blog.php:133 shortcodes/sc_blog.php:283 shortcodes/sc_blog.php:434 shortcodes/sc_blog_listing.php:112
+msgid "1 Comment"
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_blog.php:134 shortcodes/sc_blog.php:284 shortcodes/sc_blog.php:435 shortcodes/sc_blog_listing.php:113
+msgid "% Comments"
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_blog_listing.php:105
+msgid "By "
+msgstr ""
+
+# @ healthkare-toolkit
+#: sc_blog_listing.php:137 sc_blog_listing.php:169 sc_gallery.php:450 sc_gallery.php:564 sc_gallery.php:680
+msgid "<i class="fa fa-angle-double-left"></i> Prev"
+msgstr ""
+
+# @ healthkare-toolkit
+#: sc_blog_listing:138 sc_blog_listing.php:170 sc_gallery.php:451 sc_gallery.php:565 sc_gallery.php:681
+msgid "Next <i class="fa fa-angle-double-right"></i>"
+msgstr ""
+
+# @ healthkare-toolkit
+#: sc_blog_listing:139 sc_blog_listing.php:171 sc_gallery.php:144 sc_gallery.php:452 sc_gallery.php:566 sc_gallery.php:682
+msgid "Page"
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_gallery.php:56  shortcodes/sc_gallery.php:162  shortcodes/sc_gallery.php:162 shortcodes/sc_gallery.php:369 shortcodes/sc_gallery.php:263 shortcodes/sc_gallery.php:483 shortcodes/sc_gallery.php:598
+msgid "All Categories"
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/working_time.php:23
+msgid "Working Time"
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/working_time.php:43
+msgid "Monday - Friday"
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/working_time.php:44
+msgid "Saturday"
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/working_time.php:45
+msgid "Sunday"
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/working_time.php:46
+msgid "Discharge"
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/working_time.php:47
+msgid "Emergency Unit "
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/treatments.php:24
+msgid "Treatments"
+msgstr ""
+
+# @ healthkare-toolkit
+#: includes/widgets/department.php:24
+msgid "Department"
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_blog_listing.php:119
+msgid "Share"
+msgstr ""
+
+# @ healthkare-toolkit
+#: shortcodes/sc_quality.php:61 shortcodes/sc_offer_two.php:86 shortcodes/sc_featuresthree.php:70
+msgid "Read More"
+msgstr ""

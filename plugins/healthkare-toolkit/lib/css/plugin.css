@@ -1,0 +1,12 @@
+/* - Map  */
+.map-section {
+	position: relative;
+}
+.map-canvas {
+	height: 550px;
+}
+.map  .gm-style .gm-style-iw {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}

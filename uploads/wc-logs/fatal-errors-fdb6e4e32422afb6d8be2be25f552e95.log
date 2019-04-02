@@ -1,0 +1,11 @@
+2018-05-03T19:13:23+00:00 CRITICAL Uncaught Error: Call to a member function scanOptions() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordfence/lib/email_newIssues.php:2
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordfence/lib/wfUtils.php(885): include()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordfence/lib/wfIssues.php(372): wfUtils::tmpl('email_newIssues...', Array)
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordfence/lib/wfScanEngine.php(330): wfIssues->emailNewIssues(false)
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordfence/lib/wfScanEngine.php(199): wfScanEngine->emailNewIssues()
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordfence/lib/wfScan.php(158): wfScanEngine->go()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordfence/lib/wordfenceClass.php(1321): wfScan::wfScanMain()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(298): wordfence::ajax_doScan_callback('')
+#7 /opt/bitnami/apps/wordpress/htdoc
+

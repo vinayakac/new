@@ -1,0 +1,40 @@
+2017-10-24T16:24:34+00:00 CRITICAL Uncaught Error: Call to undefined function bps_smonitor_mscan_email() in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/bulletproof-security/includes/mscan-ajax-functions.php:1720
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/bulletproof-security/includes/mscan-ajax-functions.php(37): bpsPro_mscan_file_scan('300')
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(298): bpsPro_mscan_scan_processing('')
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-admin/admin-ajax.php(91): do_action('wp_ajax_bps_msc...')
+#5 {main}
+  thrown
+
+2017-10-26T22:48:12+00:00 CRITICAL Uncaught Error: Call to undefined function bps_smonitor_mscan_email() in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/bulletproof-security/includes/mscan-ajax-functions.php:1720
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/bulletproof-security/includes/mscan-ajax-functions.php(37): bpsPro_mscan_file_scan('300')
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(298): bpsPro_mscan_scan_processing('')
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-admin/admin-ajax.php(91): do_action('wp_ajax_bps_msc...')
+#5 {main}
+  thrown
+
+2018-02-07T00:06:46+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/opt/bitnami/ap...', true)
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/opt/bitnami/ap...', true)
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/opt/bitnami/ap...')
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/update.php(215): find_core_auto_update()
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /opt/bitnami/apps/wordpress/htdocs/
+
+2018-02-07T12:20:48+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/opt/bitnami/ap...', true)
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/opt/bitnami/ap...', true)
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/opt/bitnami/ap...')
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/update.php(215): find_core_auto_update()
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /opt/bitnami/apps/wordpress/htdocs/
+
